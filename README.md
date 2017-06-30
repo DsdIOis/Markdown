@@ -4,12 +4,14 @@
 
 [Markdown入门](http://metman.info/blog/2013/02/27/markdownru-men/)
 
-[插入数学公式](http://www.jianshu.com/p/c169599726e1) 如：
-<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
+
 
 [MathJax-在网页或MarkDown中插入数学公式](https://weilai5432.github.io/2017/01/11/MathJax-%E5%9C%A8MarkDown%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/)如$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$ 
 
 [github的markdown文件中插入公式](http://www.wanguanglu.com/2016/07/18/github-markdown-equation/)
+
+[插入数学公式](http://www.jianshu.com/p/c169599726e1) 如：
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
 
 [norm](http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/BracketsNorms.html)
 

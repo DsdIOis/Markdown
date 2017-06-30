@@ -4,8 +4,10 @@
 
 [Markdown入门](http://metman.info/blog/2013/02/27/markdownru-men/)
 
+[插入数学公式](http://www.jianshu.com/p/c169599726e1) 如：
 <a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
 
+下面的失效了
 ![equation](http://latex.codecogs.com/gif.latex? x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a})    HARU
 
 总结下来有2种：1） 使用解析服务器,如latex.codecogs.com  2)在chrome安装[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima/related)

@@ -4,6 +4,7 @@
 
 [Markdown入门](http://metman.info/blog/2013/02/27/markdownru-men/)
 
+[math](https://docs.gitlab.com/ee/user/markdown.html#math)
 
 
 [MathJax-在网页或MarkDown中插入数学公式](https://weilai5432.github.io/2017/01/11/MathJax-%E5%9C%A8MarkDown%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/) 如: $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$ 但需要你的chrome浏览器安装mathjax插件

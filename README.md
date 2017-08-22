@@ -7,13 +7,22 @@
 
 [MathJax with Jekyll](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/): 只要修改_layouts文件夹中的page.html,插入如下代码就可以在githu pages中显示公式了。
 ```javascript
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['′,′'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
 <script type="text/javascript"
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 ```
 
 如何chrome浏览器中安装了mathjax插件，则可以直接如下输入公式([How to show math equations in general github's markdown(not github's blog)
-](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog))：
+](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog),[Mathjax inline mode not rendering](https://tex.stackexchange.com/questions/27633/mathjax-inline-mode-not-rendering))：
 ```
 $ \sum_{\forall i}{x_i^{2}} $
 ```

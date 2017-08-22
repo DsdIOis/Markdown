@@ -11,7 +11,7 @@
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 ```
-在_includes文件夹的 head.html中head加入：
+在_includes文件夹的 head.html中head加入([Mathjax inline mode not rendering](https://tex.stackexchange.com/questions/27633/mathjax-inline-mode-not-rendering))：
 ```javascript
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({

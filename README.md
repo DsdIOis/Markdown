@@ -11,8 +11,15 @@
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 ```
-$ \sum_{\forall i}{x_i^{2}} $
 
+如何chrome浏览器中安装了mathjax插件，则可以直接如下输入公式：
+```
+$ \sum_{\forall i}{x_i^{2}} $
+```
+$ \sum_{\forall i}{x_i^{2}} $
+```
+$$a^2 + b^2 = c^2$$
+```
 $$a^2 + b^2 = c^2$$
 
 [MathJax-在网页或MarkDown中插入数学公式](https://weilai5432.github.io/2017/01/11/MathJax-%E5%9C%A8MarkDown%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/) 如: $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$ 但需要你的chrome浏览器安装mathjax插件

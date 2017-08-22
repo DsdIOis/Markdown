@@ -12,7 +12,8 @@
 </script>
 ```
 
-如何chrome浏览器中安装了mathjax插件，则可以直接如下输入公式：
+如何chrome浏览器中安装了mathjax插件，则可以直接如下输入公式([How to show math equations in general github's markdown(not github's blog)
+](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog))：
 ```
 $ \sum_{\forall i}{x_i^{2}} $
 ```

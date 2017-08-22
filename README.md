@@ -7,6 +7,12 @@
 
 [MathJax with Jekyll](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/): 只要修改_layouts文件夹中的page.html,插入如下代码就可以在githu pages中显示公式了。
 ```javascript
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+```
+在_includes文件夹的 head.html中head加入：
+```javascript
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -14,10 +20,6 @@
       processEscapes: true
     }
   });
-</script>
-
-<script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 ```
 
